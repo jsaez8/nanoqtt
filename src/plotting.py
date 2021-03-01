@@ -26,7 +26,6 @@ def plot_dataset(dataset: DataSet, scanjob, save=True) -> None:
     folder = '\\' + dataset.location + '\\'
     label = str(scanjob.get('dataset_label'))
     path = base_loc + folder + label
-    print(path)
     
     # 2D plots
     if len(default_array.shape) >= 2:
