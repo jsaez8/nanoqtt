@@ -17,7 +17,11 @@ For the new driver of the UHFLI: pip install zhinst-qcodes
 
 # Initialize measurement notebook
 (base) C:\Users\Nanoelectronics>K:
+
 (base) K:\>cd Measurement
+
 (base) K:\Measurement>cd Jaime
+
 (base) K:\Measurement\Jaime>cd 20210302_10721_S22_Bottom_Left
+
 (base) K:\Measurement\Jaime\20210302_10721_S22_Bottom_Left>conda activate qtt_dev_Jaime
