@@ -6,10 +6,8 @@ from setuptools import setup
 
 setup(name='nanoqtt',
       version='0.0.1',
-      description='The funniest joke in the world',
-      url='http://github.com/storborg/funniest',
-      author='Jaime Saez',
-      author_email='flyingcircus@example.com',
+      description='Extension of qtt and qcodes for Nanoelectronics group',
+      url='https://github.com/nanoelectronics-new',
       license='MIT',
       packages=['nanoqtt'],
       zip_safe=False)
