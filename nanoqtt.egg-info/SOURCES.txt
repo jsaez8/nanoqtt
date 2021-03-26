@@ -1,0 +1,9 @@
+README.md
+setup.py
+nanoqtt/__init__.py
+nanoqtt/plotting.py
+nanoqtt.egg-info/PKG-INFO
+nanoqtt.egg-info/SOURCES.txt
+nanoqtt.egg-info/dependency_links.txt
+nanoqtt.egg-info/not-zip-safe
+nanoqtt.egg-info/top_level.txt
