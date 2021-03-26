@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
 # https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/quickstart.html
 
-from distutils.core import setup
-#from setuptools import setup
+#from distutils.core import setup
+from setuptools import setup
 
-setup(name='qtt_extension',
+setup(name='nanoqtt',
       version='0.0.1',
-      description='Extension of qtt library',
-      url='https://github.com/jsaez8/qcodes_qtt_extension',
+      description='The funniest joke in the world',
+      url='http://github.com/storborg/funniest',
+      author='Jaime Saez',
+      author_email='flyingcircus@example.com',
       license='MIT',
-      packages=['qtt_extension'],
+      packages=['nanoqtt'],
       zip_safe=False)
